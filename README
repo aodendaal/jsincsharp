@@ -1,0 +1,9 @@
+This is a very simple example of how to host JavaScript in a C# application using Microsoft.JScript
+
+* Add reference to Microsoft.JScript
+* Using reflection
+  - Compile assesmbly from source or file
+  - Get the type
+  - Create instance of the type
+  - Invoke the methods on the instance based on the type
+* Only type and package definitions are allowed inside a library
